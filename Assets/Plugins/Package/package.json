@@ -1,0 +1,19 @@
+{
+  "name": "com.gambit.staticcoroutine",
+  "version": "1.0.0",
+  "displayName": "Static Coroutine",
+  "description": "Use this class from a non-monobehaviour derived class to give it access to coroutines",
+  "unity": "2022.1",
+  "documentationUrl": "https://github.com/GambitGamesLLC/unity-static-coroutine",
+  "changelogUrl": "https://github.com/GambitGamesLLC/unity-static-coroutine",
+  "licensesUrl": "https://github.com/GambitGamesLLC/unity-static-coroutine",
+  "keywords": [
+    "Static",
+    "Coroutine"
+  ],
+  "author": {
+    "name": "GambitGamesLLC",
+    "email": "gambitgamesllc@gmail.com",
+    "url": "https://github.com/GambitGamesLLC/unity-static-coroutine",
+  }
+}
